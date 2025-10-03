@@ -1,1 +1,7 @@
 # blog_robotica_movil
+
+Hola! Este es el blog de Marina Antolínez Cabrero. Estudiante del grado de Ingeniería Robótica Software para la asignatura de Robótica Móvil.
+
+Te dejo el link directo a cada práctica:
+
+  -   [P1: Aspiradora de gama baja con Autómata de Estados Finito Reactivo](./P1.md)

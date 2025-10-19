@@ -5,3 +5,4 @@ Hola! Este es el blog de Marina Antolínez Cabrero. Estudiante del grado de Inge
 Te dejo el link directo a cada práctica:
 
   -   [P1: Aspiradora de gama baja con Autómata de Estados Finito Reactivo](./P1.md)
+  -   [P2: formula1 sigue líneas, control reactivo PID](./P2.md)

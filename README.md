@@ -6,4 +6,5 @@ Te dejo el link directo a cada práctica:
 
   -   [P1: Aspiradora de gama baja con Autómata de Estados Finito Reactivo](./P1.md)
   -   [P2: Formula1 sigue líneas, control reactivo PID](./P2.md)
-  -   [P3: Navegación local esquivando obstáculos con algoritmo VFF](./P3.md)  
+  -   [P3: Navegación local esquivando obstáculos con algoritmo VFF](./P3.md)
+  -   [P4: Navegación global con algoritmo GPP](./P4.md)

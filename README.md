@@ -8,3 +8,4 @@ Te dejo el link directo a cada práctica:
   -   [P2: Formula1 sigue líneas, control reactivo PID](./P2.md)
   -   [P3: Navegación local esquivando obstáculos con algoritmo VFF](./P3.md)
   -   [P4: Navegación global con algoritmo GPP](./P4.md)
+  -   [P5: Navegación global y exploración reactiva meidnate laser](./P5.md)

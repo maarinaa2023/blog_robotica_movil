@@ -9,3 +9,4 @@ Te dejo el link directo a cada práctica:
   -   [P3: Navegación local esquivando obstáculos con algoritmo VFF](./P3.md)
   -   [P4: Navegación global con algoritmo GPP](./P4.md)
   -   [P5: Navegación global y exploración reactiva mediante laser](./P5.md)
+  -   [P6: Localización visual absoluta mediante AprilTags](./P6.md)
